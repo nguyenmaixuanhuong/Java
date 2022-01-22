@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "buoi3"
+    ],
+    "java.project.outputPath": "bin"
+}
